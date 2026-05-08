@@ -17,6 +17,73 @@
 
 ---
 
+
+# 🎬 Demo Video
+
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=XvWagOY7w-8" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=XvWagOY7w-8">
+    TIH Demo Video 바로가기
+  </a>
+</p>
+
+---
+
+# 👥 Development Team
+
+<br>
+
+<table>
+  <tr>
+    <th align="center">신혁진</th>
+    <th align="center">손준성</th>
+    <th align="center">3D 모델링 팀</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Backend / AI / Infra</strong>
+    </td>
+    <td align="center">
+      <strong>Unreal Engine Client</strong>
+    </td>
+    <td align="center">
+      <strong>3D Modeling</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      UE5 클라이언트 개발<br>
+      UI/UX 플로우 구현<br>
+      서버 API 연동<br>
+      MetaHuman 연동<br>
+      LipSync 흐름 구성
+    </td>
+    <td align="center">
+      시스템 설계<br>
+      전체 백엔드 개발<br>
+      AI 에이전트<br>
+      CI/CD<br>
+      비용 시뮬레이터
+    </td>
+    <td align="center">
+      MetaHuman 캐릭터 모델링<br>
+      캐릭터 리소스 제작<br>
+      애니메이션 에셋 제작
+    </td>
+  </tr>
+</table>
+
+
+---
+
+
 ## 📂 Project List
 
 | Project | Platform | Summary |
