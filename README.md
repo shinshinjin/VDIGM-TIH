@@ -43,15 +43,17 @@
 <table>
   <tr>
     <th align="center">신혁진</th>
-    <th align="center">손준성</th>
+    <th align="center">
+      <a href="https://github.com/devjun20/vdigm-tih">손준성</a>
+    </th>
     <th align="center">3D 모델링 팀</th>
   </tr>
   <tr>
     <td align="center">
-      <strong>Backend / AI / Infra</strong>
+      <strong>Unreal Engine Client</strong>
     </td>
     <td align="center">
-      <strong>Unreal Engine Client</strong>
+      <strong>Backend / AI / Infra</strong>
     </td>
     <td align="center">
       <strong>3D Modeling</strong>
